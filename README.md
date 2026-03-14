@@ -1,42 +1,58 @@
 <div align="center">
 
-```
-░██████╗░█████╗░██╗░░░██╗░█████╗░██████╗░
-██╔════╝██╔══██╗╚██╗░██╔╝██╔══██╗██╔══██╗
-╚█████╗░███████║░╚████╔╝░███████║██████╔╝
-░╚═══██╗██╔══██║░░╚██╔╝░░██╔══██║██╔══██╗
-██████╔╝██║░░██║░░░██║░░░██║░░██║██║░░██║
-╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sayar+Paul+%F0%9F%91%8B;Tech+Enthusiast+%7C+AI%2FML+Explorer;Graphic+Designer+%7C+Gamer;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=sayar2121&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7c3aed&height=200&section=header&text=Sayar%20Paul&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20AI%2FML%20Explorer%20%7C%20Gamer&descAlignY=58&descSize=18&animation=twinkling"/>
 
 </div>
 
----
+<div align="center">
 
-## 🧠 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%9A%80+Building+the+future+with+AI+%26+Code;%F0%9F%8C%BF+AgriDiseaseNet+%7C+Deep+Learning+Researcher;%F0%9F%8E%A8+GDG+HETC+Design+%26+Social+Media+Lead;%F0%9F%94%97+Blockchain+%7C+Web3+%7C+Solidity+Dev;%F0%9F%8E%AE+CodeFreak+%26+Gamer+at+Heart)](https://git.io/typing-svg)
 
-```python
-class SayarPaul:
-    def __init__(self):
-        self.name        = "Sayar Paul"
-        self.role        = ["Developer", "Graphic Designer", "Gamer", "AI/ML Explorer"]
-        self.location    = "India 🇮🇳"
-        self.org         = "GDG HETC — Graphics Design & Social Media Lead"
-        self.passion     = "Building creative tech that solves real-world problems"
-        self.current     = "Hibiscus Leaf Disease Detection via Deep Learning 🌿"
-        self.fun_fact    = "I debug code the same way I win games — with patience and a plan 🎮"
+<br/>
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together 🚀")
+![Profile Views](https://komarev.com/ghpvc/?username=sayar2121&label=👁️+Profile+Views&color=00d9ff&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/sayar2121?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117)](https://github.com/sayar2121)
+[![GitHub stars](https://img.shields.io/github/stars/sayar2121?label=Total+Stars&style=for-the-badge&color=f59e0b&labelColor=0d1117)](https://github.com/sayar2121)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```yaml
+Name       : Sayar Paul
+Location   : India 🇮🇳
+Role       : Developer + Designer + AI/ML Explorer
+Org        : GDG HETC (Design & Social Media Lead)
+
+Currently  : 🌿 Hibiscus Leaf Disease Detection
+             using Deep Learning & Explainable AI
+
+Interests  : ⚡ Artificial Intelligence & ML
+             🌐 Full-Stack Web Development
+             🔗 Blockchain & Web3
+             🎨 Graphic Design & Branding
+             🎮 Gaming & Tech Exploration
+
+Ask Me About : Python, React, TensorFlow,
+               Solidity, Smart Contracts
+
+Fun Fact   : I debug code the same way I win
+             games — with patience & a plan 🎮
 ```
 
----
+<br clear="right"/>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,69 +67,142 @@ class SayarPaul:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🤖 AI / Data
+### 🤖 AI / ML / Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🌿 AgriDiseaseNet | 🔗 Blockchain dApps | 📊 Data Analytics |
-|:---:|:---:|:---:|
-| AI-powered hibiscus leaf disease detection using image classification & Explainable AI (SHAP) | Decentralized applications built with Solidity & Web3.js | Python + ML pipelines for real-world dataset insights |
-| `TensorFlow` `CNN` `SHAP` | `Solidity` `Web3.js` `Ethereum` | `Pandas` `XGBoost` `Matplotlib` |
+<a href="https://github.com/sayar2121">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayar2121&repo=AgriDiseaseNet&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
 
 </div>
 
----
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🌿 AgriDiseaseNet
+<img src="https://img.shields.io/badge/Status-Active-00d9ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-Deep%20Learning-7c3aed?style=flat-square"/>
+
+AI-powered **hibiscus leaf disease detection** using CNN image classification and Explainable AI (SHAP) for smart agriculture solutions.
+
+`TensorFlow` `CNN` `SHAP` `OpenCV` `Python`
+
+</td>
+<td width="50%" align="center">
+
+### 🔗 Blockchain dApps
+<img src="https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-Web3-363636?style=flat-square"/>
+
+Decentralized applications built with **Solidity smart contracts** deployed on Ethereum, integrated with Web3.js frontend.
+
+`Solidity` `Web3.js` `Ethereum` `MetaMask`
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 📊 Data Analytics Suite
+<img src="https://img.shields.io/badge/Status-Ongoing-00d9ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-ML%20Pipelines-6DB33F?style=flat-square"/>
+
+End-to-end **ML pipelines** for real-world datasets, generating actionable insights with advanced visualization.
+
+`Pandas` `XGBoost` `Matplotlib` `Seaborn`
+
+</td>
+<td width="50%" align="center">
+
+### 🎨 Design Portfolio
+<img src="https://img.shields.io/badge/Status-Live-00d9ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-Creative-F24E1E?style=flat-square"/>
+
+Creative assets, social media campaigns, and brand identities crafted as **GDG HETC Design & Social Media Lead**.
+
+`Figma` `Photoshop` `Canva` `Illustrator`
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayar2121&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=reviews,prs_merged,discussions_started&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayar2121&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sayar2121&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayar2121&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&show=reviews,prs_merged,discussions_started&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayar2121&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayar2121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="70%" src="https://streak-stats.demolab.com?user=sayar2121&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://github.com/sayar2121/sayar2121/blob/output/github-contribution-grid-snake-dark.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sayar2121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-> **Note:** To enable the snake animation, set up a GitHub Actions workflow. See [platane/snk](https://github.com/platane/snk) for setup instructions.
+<div align="center">
 
----
+[![Sayar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayar2121&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sayar2121/sayar2121/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sayar2121/sayar2121/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://github.com/sayar2121/sayar2121/blob/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me
 
@@ -123,15 +212,21 @@ class SayarPaul:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayar2121)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d9ff,100:0d1117&height=120&section=footer&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+
+</div>
 
 <div align="center">
 
 ### ⭐ *"Code. Create. Innovate."*
-
-*Thanks for visiting my profile! If you find my projects interesting, don't forget to drop a ⭐*
+*If you find my work interesting, drop a ⭐ — it means the world! 🌍*
 
 </div>
