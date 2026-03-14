@@ -1,18 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7c3aed&height=200&section=header&text=Sayar%20Paul&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20AI%2FML%20Explorer%20%7C%20Gamer&descAlignY=58&descSize=18&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d62,60:00d9ff,100:7c3aed&height=250&section=header&text=Sayar%20Paul&fontSize=75&fontColor=00d9ff&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=✦%20Developer%20✦%20Designer%20✦%20AI%2FML%20Explorer%20✦%20Gamer%20✦&descAlignY=62&descSize=17&descColor=a78bfa&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%9A%80+Building+the+future+with+AI+%26+Code;%F0%9F%8C%BF+AgriDiseaseNet+%7C+Deep+Learning+Researcher;%F0%9F%8E%A8+GDG+HETC+Design+%26+Social+Media+Lead;%F0%9F%94%97+Blockchain+%7C+Web3+%7C+Solidity+Dev;%F0%9F%8E%AE+CodeFreak+%26+Gamer+at+Heart)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=false&width=800&height=50&lines=🚀+Building+the+Future+with+AI+%26+Code;🌿+Deep+Learning+%7C+AgriDiseaseNet+Researcher;🎨+GDG+HETC+Design+%26+Social+Media+Lead;🔗+Blockchain+%7C+Web3+%7C+Solidity+Developer;🎮+CodeFreak+%26+Gamer+at+Heart)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sayar2121&label=👁️+Profile+Views&color=00d9ff&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/sayar2121?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117)](https://github.com/sayar2121)
-[![GitHub stars](https://img.shields.io/github/stars/sayar2121?label=Total+Stars&style=for-the-badge&color=f59e0b&labelColor=0d1117)](https://github.com/sayar2121)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:00d9ff&height=2&width=600"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sayar2121&label=👁️+PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0d1117)
+[![GitHub followers](https://img.shields.io/github/followers/sayar2121?label=🤝+FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=0d1117)](https://github.com/sayar2121)
+[![GitHub stars](https://img.shields.io/github/stars/sayar2121?label=⭐+TOTAL+STARS&style=for-the-badge&color=f59e0b&labelColor=0d1117)](https://github.com/sayar2121)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:7c3aed&height=2&width=600"/>
 
 </div>
 
