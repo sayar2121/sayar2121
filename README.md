@@ -22,65 +22,78 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚡ `< ABOUT_ME />`
+## 🎮 PLAYER PROFILE
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,33:00ffcc,66:bf00ff,100:ff00ff&height=2&width=800"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td align="center" width="30%">
 
-### 🕹️ PLAYER ONE HAS ENTERED THE GAME
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 
-```javascript
-const sayarPaul = {
-  name      : "Sayar Paul",
-  location  : "India 🇮🇳",
-  role      : ["Full-Stack Dev", "AI/ML Engineer",
-               "Blockchain Dev", "Graphic Designer"],
-  guild     : "GDG HETC 🎖️ Design & Social Media Lead",
+<br/>
 
-  currentMission : {
-    quest   : "🌿 AgriDiseaseNet",
-    type    : "Deep Learning + Explainable AI",
-    status  : "🟢 ACTIVE"
-  },
-
-  powerSkills : [
-    "⚡ Artificial Intelligence & ML",
-    "🌐 Full-Stack Web Development",
-    "🔗 Blockchain & Web3",
-    "🎨 Graphic Design & Branding",
-    "🎮 Gaming & Tech Exploration"
-  ],
-
-  askMeAbout : ["Python", "React", "TensorFlow",
-                "Solidity", "Smart Contracts"],
-
-  funFact    : "I debug code the same way I win" +
-               " games — with patience & a plan 🎮",
-
-  status     : "🟢 Open to Collaborations"
-};
-```
+![](https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=flat-square&labelColor=0d0221&logo=statuspage&logoColor=00ffcc)
+![](https://img.shields.io/badge/MODE-BUILD%20%26%20GRIND-ff00ff?style=flat-square&labelColor=0d0221)
 
 </td>
-<td width="5%"></td>
-<td width="40%" valign="top" align="center">
+<td width="70%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px"/>
-
-<br/><br/>
-
-![Streak](https://img.shields.io/badge/🔥_CURRENT_STREAK-Active-00ffcc?style=for-the-badge&labelColor=0d0221)
-
-![Mode](https://img.shields.io/badge/⚔️_MODE-Build_%26_Grind-ff00ff?style=for-the-badge&labelColor=0d0221)
-
-![XP](https://img.shields.io/badge/🎮_XP_LEVEL-Over_9000-bf00ff?style=for-the-badge&labelColor=0d0221)
+```
+╔══════════════════════════════════════════════════════╗
+║           🎮  H U D  —  P L A Y E R  0 1            ║
+╠══════════════════════════════════════════════════════╣
+║  NAME     ›  Sayar Paul                              ║
+║  CLASS    ›  Dev + Designer + AI Engineer            ║
+║  GUILD    ›  GDG HETC  [ Design & Social Lead ]      ║
+║  SERVER   ›  India 🇮🇳                                ║
+╠══════════════════════════════════════════════════════╣
+║  ACTIVE QUEST                                        ║
+║  ›  🌿 AgriDiseaseNet — Hibiscus Disease Detection   ║
+║  ›  Deep Learning + Explainable AI (SHAP)            ║
+║  ›  STATUS : 🟢 IN PROGRESS                          ║
+╠══════════════════════════════════════════════════════╣
+║  SKILL TREE                                          ║
+║  ›  ⚡ Artificial Intelligence & Machine Learning    ║
+║  ›  🌐 Full-Stack Web Development                    ║
+║  ›  🔗 Blockchain & Web3 / Solidity                  ║
+║  ›  🎨 Graphic Design & Creative Branding            ║
+║  ›  🎮 Gaming | Tech | Innovation                    ║
+╠══════════════════════════════════════════════════════╣
+║  EQUIPPED WEAPONS                                    ║
+║  ›  Python  React  TensorFlow  Solidity  Figma       ║
+╠══════════════════════════════════════════════════════╣
+║  ACHIEVEMENT UNLOCKED 🏆                             ║
+║  ›  "Debugs code like winning games —                ║
+║      patience, strategy & a killer plan 🎮"          ║
+╠══════════════════════════════════════════════════════╣
+║  PARTY STATUS  ›  🟢 Open to Collaborations          ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/⚡_XP-Over%209000-bf00ff?style=for-the-badge&labelColor=0d0221)
+![](https://img.shields.io/badge/🔥_STREAK-Active-00ffcc?style=for-the-badge&labelColor=0d0221)
+![](https://img.shields.io/badge/🎯_MISSION-AgriDiseaseNet-ff00ff?style=for-the-badge&labelColor=0d0221)
+![](https://img.shields.io/badge/🏅_RANK-Elite%20Dev-f59e0b?style=for-the-badge&labelColor=0d0221)
 
 </div>
 
