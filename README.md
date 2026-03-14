@@ -22,33 +22,67 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## ⚡ `< ABOUT_ME />`
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
 
-```yaml
-Name       : Sayar Paul
-Location   : India 🇮🇳
-Role       : Developer + Designer + AI/ML Explorer
-Org        : GDG HETC (Design & Social Media Lead)
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
 
-Currently  : 🌿 Hibiscus Leaf Disease Detection
-             using Deep Learning & Explainable AI
+### 🕹️ PLAYER ONE HAS ENTERED THE GAME
 
-Interests  : ⚡ Artificial Intelligence & ML
-             🌐 Full-Stack Web Development
-             🔗 Blockchain & Web3
-             🎨 Graphic Design & Branding
-             🎮 Gaming & Tech Exploration
+```javascript
+const sayarPaul = {
+  name      : "Sayar Paul",
+  location  : "India 🇮🇳",
+  role      : ["Full-Stack Dev", "AI/ML Engineer",
+               "Blockchain Dev", "Graphic Designer"],
+  guild     : "GDG HETC 🎖️ Design & Social Media Lead",
 
-Ask Me About : Python, React, TensorFlow,
-               Solidity, Smart Contracts
+  currentMission : {
+    quest   : "🌿 AgriDiseaseNet",
+    type    : "Deep Learning + Explainable AI",
+    status  : "🟢 ACTIVE"
+  },
 
-Fun Fact   : I debug code the same way I win
-             games — with patience & a plan 🎮
+  powerSkills : [
+    "⚡ Artificial Intelligence & ML",
+    "🌐 Full-Stack Web Development",
+    "🔗 Blockchain & Web3",
+    "🎨 Graphic Design & Branding",
+    "🎮 Gaming & Tech Exploration"
+  ],
+
+  askMeAbout : ["Python", "React", "TensorFlow",
+                "Solidity", "Smart Contracts"],
+
+  funFact    : "I debug code the same way I win" +
+               " games — with patience & a plan 🎮",
+
+  status     : "🟢 Open to Collaborations"
+};
 ```
 
-<br clear="right"/>
+</td>
+<td width="5%"></td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px"/>
+
+<br/><br/>
+
+![Streak](https://img.shields.io/badge/🔥_CURRENT_STREAK-Active-00ffcc?style=for-the-badge&labelColor=0d0221)
+
+![Mode](https://img.shields.io/badge/⚔️_MODE-Build_%26_Grind-ff00ff?style=for-the-badge&labelColor=0d0221)
+
+![XP](https://img.shields.io/badge/🎮_XP_LEVEL-Over_9000-bf00ff?style=for-the-badge&labelColor=0d0221)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
