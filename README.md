@@ -88,16 +88,6 @@ Fun Fact   : I debug code the same way I win
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/sayar2121">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayar2121&repo=AgriDiseaseNet&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
-<br/>
-
 <table align="center">
 <tr>
 <td width="50%" align="center">
