@@ -1,26 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d62,60:00d9ff,100:7c3aed&height=250&section=header&text=Sayar%20Paul&fontSize=75&fontColor=00d9ff&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=✦%20Developer%20✦%20Designer%20✦%20AI%2FML%20Explorer%20✦%20Gamer%20✦&descAlignY=62&descSize=17&descColor=a78bfa&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0221,25:0d1117,50:1a0533,75:0d1117,100:0d0221&height=280&section=header&text=SAYAR%20PAUL&fontSize=72&fontColor=00ffcc&fontAlignY=40&stroke=ff00ff&strokeWidth=3&desc=⚡%20DEVELOPER%20%7C%20AI%2FML%20%7C%20BLOCKCHAIN%20%7C%20GAMER%20⚡&descAlignY=62&descSize=18&descColor=bf00ff&animation=scaleIn"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,33:00ffcc,66:bf00ff,100:ff00ff&height=3&section=header"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=false&width=800&height=50&lines=🚀+Building+the+Future+with+AI+%26+Code;🌿+Deep+Learning+%7C+AgriDiseaseNet+Researcher;🎨+GDG+HETC+Design+%26+Social+Media+Lead;🔗+Blockchain+%7C+Web3+%7C+Solidity+Developer;🎮+CodeFreak+%26+Gamer+at+Heart)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2500&pause=1000&color=00FFCC&background=00000000&center=true&vCenter=true&multiline=false&width=850&height=55&lines=🎮+INSERT+COIN+TO+CONTINUE...;🚀+Building+the+Future+with+AI+%26+Code;🌿+Deep+Learning+%7C+AgriDiseaseNet+Researcher;🎨+GDG+HETC+Design+%26+Social+Media+Lead;🔗+Blockchain+%7C+Web3+%7C+Solidity+Developer;⚡+CodeFreak+%26+Gamer+at+Heart)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:00d9ff&height=2&width=600"/>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sayar2121&label=👁️+PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0d1117)
-[![GitHub followers](https://img.shields.io/github/followers/sayar2121?label=🤝+FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=0d1117)](https://github.com/sayar2121)
-[![GitHub stars](https://img.shields.io/github/stars/sayar2121?label=⭐+TOTAL+STARS&style=for-the-badge&color=f59e0b&labelColor=0d1117)](https://github.com/sayar2121)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:7c3aed&height=2&width=600"/>
+![Profile Views](https://komarev.com/ghpvc/?username=sayar2121&label=👁️+PROFILE+VIEWS&color=00ffcc&style=for-the-badge&labelColor=0d0221)
+[![GitHub followers](https://img.shields.io/github/followers/sayar2121?label=🤝+FOLLOWERS&style=for-the-badge&color=bf00ff&labelColor=0d0221)](https://github.com/sayar2121)
+[![GitHub stars](https://img.shields.io/github/stars/sayar2121?label=⭐+STARS&style=for-the-badge&color=ff00ff&labelColor=0d0221)](https://github.com/sayar2121)
 
 </div>
 
@@ -218,7 +212,8 @@ Creative assets, social media campaigns, and brand identities crafted as **GDG H
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d9ff,100:0d1117&height=120&section=footer&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,33:00ffcc,66:bf00ff,100:ff00ff&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0221,25:0d1117,50:1a0533,75:0d1117,100:0d0221&height=120&section=footer&fontColor=00ffcc&animation=scaleIn"/>
 
 </div>
 
